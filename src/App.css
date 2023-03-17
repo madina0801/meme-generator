@@ -41,3 +41,14 @@ main {
   border: none;
   cursor: pointer;
 }
+
+.meme__img--container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.meme__img {
+  max-width: 100%;
+  padding-top: 5%;
+}
